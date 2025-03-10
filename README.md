@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to solve the problem of calculating position size for trading in the forex market. When searching online for a reliable method to calculate position size based on various factors such as account size, risk ratio, stop loss, and currency pairs, I couldn't find an appropriate solution. So, I decided to create this backend controller that automates the calculation process.
+I wanted to build an app that calculates the forex position size, but I couldn't find the logic implemented in code online. So, I created this backend controller to calculate position size based on various factors such as account size, risk ratio, stop loss, and currency pairs.
 
 ## How It Works
 
