@@ -38,8 +38,8 @@ The request must include the following JSON parameters:
 {
   "baseCurrency": "USD",
   "comparedTo": "EUR",
-  "accountSize": 10000,
-  "riskRatio": 0.02,
-  "stopLoss": 50,
+  "accountSize": 10000, // in accountCurrency
+  "riskRatio": 1, // in %
+  "stopLoss": 50, // in pips
   "accountCurrency": "USD"
 }
