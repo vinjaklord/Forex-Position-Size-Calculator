@@ -2,7 +2,7 @@
 
 ## Overview
 
-I wanted to build an app that calculates the forex position size, but I couldn't find the logic implemented in code online. So, I created this backend controller to calculate position size based on various factors such as account size, risk ratio, stop loss, and currency pairs.
+I wanted to build an app that calculates the forex position size, but I couldn't find the logic implemented in code online. So, I created this backend controller to calculate position size based on various factors such as account size, risk ratio, stop loss, and currency pairs. The lot size is fixed to 1 or 100000 in unit size. Have fun!
 
 ## How It Works
 
